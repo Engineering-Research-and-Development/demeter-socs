@@ -29,34 +29,34 @@ The SOCS is a space dedicated to all stakeholders (farmers, advisors, and suppli
 ## Screenshots
 
 ### Public Home page
-![](/uploads/e3507e27535734af4d3ec434972f5e38/image.png?raw=true)
+![](/screenshots/socs-home.png)
 
 ### Private Home page
-![](/uploads/271cb33c9de26a9dcf4eb81d657226ed/Private_Homepage.png?raw=true)
+![](/screenshots/socs-privatehome.png)
 
 ### Organizations catalogue
-![](/uploads/732b1ffabeb40ec90990f91349539d2b/Organizations_catalogue.png?raw=true)
+![](/screenshots/socs-orgcatalogue.png)
 
 ### Wiki
-![](/uploads/f4378f0c7f91ac3afff763fdb514ad96/Wiki.png?raw=true)
+![](/screenshots/socs-wiki.png)
 
 ### Documents
-![](/uploads/a68647ed4ab8f60c84c730759c743839/Documents.png?raw=true)
+![](/screenshots/socs-documents.png)
 
 ### Insert Agricultural trial
-![](/uploads/ea263c4799e37c56ee23ae62ca03540e/Insert_Agricultural_trials.png?raw=true)
+![](/screenshots/socs-insertagriculturaltrials.png)
 
 ### Blog
-![](/uploads/16803b514e119b1957ee3b3469dc5ff4/Blog.png?raw=true)
+![](/screenshots/socs-blog.png)
 
 ### Events
-![](/uploads/76e7e083033324a4a2a38290799d6efa/Events.png?raw=true)
+![](/screenshots/socs-events.png)
 
 ### Search for category “development”
-![](/uploads/94b96837170bd9017971e79a837b2e71/Search_for_category__development_.png?raw=true)
+![](/screenshots/socs-searchforcategory.png)
 
 ### Notifications
-![](/uploads/f1bbacc7e284d106eb82e78ee4cf214d/Notifications.png?raw=true)
+![](/screenshots/socs-notifications.png)
 
 
 ## User manual

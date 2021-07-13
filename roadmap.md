@@ -8,4 +8,4 @@ A second iteration of workshops with SOCS users will aim at collecting feedback 
 
 
 ### SOCS development planning
-![](/uploads/f5bccec0ddd5e3e1318b32fc6c0b79e3/Table_roadmap.png?raw=true)
+![](/screenshots/socs-roadmap.png)
